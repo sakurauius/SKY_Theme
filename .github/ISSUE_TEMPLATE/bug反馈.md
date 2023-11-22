@@ -1,8 +1,8 @@
 ---
 name: BUG反馈
 about: 创建报告以帮助我们改进
-title: ''
-labels: ''
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---
