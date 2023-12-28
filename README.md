@@ -1,11 +1,11 @@
 ## 主题信息
 
 *   主题名称：Sky
-*   主题版本：1.1.51-正式版
-*   更新日期：2023/12/20
+*   主题版本：1.1.7-正式版
+*   更新日期：2023/12/28
 *   特色功能：精致的Ui、前后的分离、增加后端安全性、多语言、多套落地页可换
 *   环境兼容：PHP8.1+、V2board 1.7.2+
-*   在线预览：[点我查看](https://1.fantasycloud.cc/)
+*   在线预览：[https://1.fantasycloud.cc/](https://1.fantasycloud.cc/)
 *   主题价格：$ <del>199 USDT</del>  150 USDT
 *   交流群组：[https://t.me/skrdev](https://t.me/skrdev)
 *   在线购买：[点我购买](https://store.sakuraui.com/index.php?rp=/store/sakuraui-license)
@@ -36,6 +36,8 @@
 
 ![](https://img.xhacgn.com/images/2023/11/11/-2023-11-11-021559.png)
 ![](https://img.xhacgn.com/images/2023/11/11/-2023-11-11-021630.png)
+
+![](https://img.xhacgn.com/images/2023/12/28/-2023-12-28-195743.png)
 ![-2023-09-23-1523300798d7c88c5ae1e5.png](https://img.xhacgn.com/images/2023/09/23/-2023-09-23-1523300798d7c88c5ae1e5.png)
 ![-2023-09-23-152352891f7232d08d5546.png](https://img.xhacgn.com/images/2023/09/23/-2023-09-23-152352891f7232d08d5546.png)
 ![-2023-09-23-152605767842912953fe62.png](https://img.xhacgn.com/images/2023/09/23/-2023-09-23-152605767842912953fe62.png)
@@ -49,3 +51,9 @@
 ![-2023-09-23-153016.png](https://img.xhacgn.com/images/2023/09/23/-2023-09-23-153016.png)
 ![-2023-09-23-153035.png](https://img.xhacgn.com/images/2023/09/23/-2023-09-23-153035.png)
 ![-2023-09-23-153049.png](https://img.xhacgn.com/images/2023/09/23/-2023-09-23-153049.png)
+
+![](https://img.xhacgn.com/images/2023/12/28/photo_2023-12-28_19-55-21.jpg)
+
+![](https://img.xhacgn.com/images/2023/12/28/photo_2023-12-28_19-55-09.jpg)
+
+![](https://img.xhacgn.com/images/2023/12/28/photo_2023-12-28_19-55-17.jpg)
