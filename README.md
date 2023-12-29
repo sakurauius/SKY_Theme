@@ -5,7 +5,7 @@
 *   更新日期：2023/12/28
 *   特色功能：精致的Ui、前后的分离、增加后端安全性、多语言、多套落地页可换
 *   环境兼容：PHP8.1+、V2board 1.7.2+
-*   在线预览：[https://1.fantasycloud.cc/](https://1.fantasycloud.cc/)
+*   在线预览：[https://sky.sakuraui.com/](https://sky.sakuraui.com/)
 *   主题价格：$ <del>199 USDT</del>  150 USDT
 *   交流群组：[https://t.me/skrdev](https://t.me/skrdev)
 *   在线购买：[点我购买](https://store.sakuraui.com/index.php?rp=/store/sakuraui-license)
