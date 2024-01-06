@@ -29,6 +29,8 @@
 
 **新版图片请看预览站**
 
+![](https://img.xhacgn.com/images/2024/01/07/-2024-01-07-052027.png)
+
 ![](https://img.xhacgn.com/images/2023/12/20/-2023-12-20-000338.png)
 
 ![](https://img.xhacgn.com/images/2023/11/11/-2023-11-11-021559.png)
