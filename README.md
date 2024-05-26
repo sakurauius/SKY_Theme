@@ -7,7 +7,7 @@
 *   环境兼容：PHP8.1+、V2board 1.7.2+、Xboard
 *   在线预览：[https://sky.sakuraui.com/](https://sky.sakuraui.com/)
 *   预览账号：sky@qq.com / 12345678
-*   主题价格：$ <del>199 USDT</del>  150 USDT
+*   主题价格：$ <del>1099 CNY</del>  699 CNY
 *   交流群组：[https://t.me/skrdev](https://t.me/skrdev)
 *   在线购买：[点我购买](https://store.sakuraui.com/index.php?rp=/store/sakuraui-license)
 *   更新日志：[点我查看](https://sakuraui.com/26)
